@@ -1,5 +1,14 @@
 # homebrew-tap
 
+<div align="center">
+
+[![Latest release](https://img.shields.io/github/v/release/imperium42/echophrase-releases?include_prereleases&label=release&color=22d3ee)](https://github.com/imperium42/echophrase-releases/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/imperium42/echophrase-releases/total?color=a855f7)](https://github.com/imperium42/echophrase-releases/releases)
+[![Homebrew](https://img.shields.io/badge/homebrew-imperium42%2Ftap-f9d094?logo=homebrew&logoColor=white)](https://github.com/imperium42/homebrew-tap)
+[![Website](https://img.shields.io/badge/echophrase.com-visit-22d3ee)](https://echophrase.com)
+
+</div>
+
 Self-hosted [Homebrew](https://brew.sh) tap for [Echophrase](https://echophrase.com), a privacy-first local speech-to-text desktop app.
 
 ## Install
