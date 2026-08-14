@@ -1,6 +1,6 @@
 cask "echophrase" do
-  version "0.8.0-beta.74"
-  sha256 "a19de0d919f01be2be8311fb813c32652ee5c9202339e1ab254969ee9af6a915"
+  version "0.8.0-beta.75"
+  sha256 "a0496da31cca4ae0be9a6cd757a048c2a9a6c82d67a2e278f55294e4f1bdc9e5"
 
   url "https://github.com/imperium42/echophrase-releases/releases/download/v#{version}/Echophrase_#{version}_aarch64.dmg"
   name "Echophrase"
